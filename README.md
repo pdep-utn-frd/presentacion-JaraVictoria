@@ -4,6 +4,7 @@
 ## Legajo: 10937
 ___
 Hola, mi nombre es Victoria Jara. Tengo 22 años y vivo en la ciudad de Zárate. <br/>
+Me egresé en la Escuela de Educación Secundaria Técnica N°3, eso influyó mucho en mi decisión a la hora de elegir que carrera seguir. <br/>
 
 Algunos de mis hobbies son: <br/>
 - La fotografía.
