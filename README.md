@@ -1,7 +1,7 @@
 # <p align="center">Presentación
-**Legajo: 10937**
 
-![](https://66.media.tumblr.com/5ac94956d9e9a073e4b9fa2a9b49d8f5/d4322ebc082dea87-da/s250x400/6a173c86c6d3c762bc4f44d145ee42c15847da16.jpg)
+![](https://66.media.tumblr.com/5ac94956d9e9a073e4b9fa2a9b49d8f5/d4322ebc082dea87-da/s250x400/6a173c86c6d3c762bc4f44d145ee42c15847da16.jpg) <br/>
+## Legajo: 10937
 ___
 Hola, mi nombre es Victoria Jara. Tengo 22 años y vivo en la ciudad de Zárate. <br/>
 
